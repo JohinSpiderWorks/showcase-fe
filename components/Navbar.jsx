@@ -12,7 +12,7 @@ function Navbar() {
         >
           <Image src="/logo.png" className="h-5 mb-5" alt="Spider Works Logo" width={200} height={100}/>
         </a>
-        <div className="">
+        {/* <div className="">
           <button className="bg-[#FFEBE7] rounded-full p-2 me-3 hover:bg-[#fcdad3]">
             <svg
               width="20px"
@@ -69,7 +69,7 @@ function Navbar() {
               </g>
             </svg>
           </button>
-        </div>
+        </div> */}
       </div>
     </nav>
   </>
